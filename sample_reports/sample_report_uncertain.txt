@@ -1,0 +1,1 @@
+A system notification reported unusual behavior on one internal workstation. The event contained limited details and did not clearly identify a domain, IP address, vulnerability, malware family, or affected account. The activity should be reviewed by the security team to determine whether it is related to normal system behavior or a possible security issue.
